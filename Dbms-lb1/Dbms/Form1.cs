@@ -24,11 +24,6 @@ namespace Dbms
             return "Data Source=PT;Initial Catalog=master;Integrated Security=True";
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void Connect_Click(object sender, EventArgs e)
         {
             connection = new SqlConnection(GetConnectionString());
@@ -54,7 +49,7 @@ namespace Dbms
             //bind parent table tp gridview
             bsManagers.DataSource = ds;
             bsManagers.DataMember = "Managers";
-
+             
             //bind child table tp gridview
             bsMechanics.DataSource = bsManagers;
             bsMechanics.DataMember = "FK_Managers_Mechanics";
@@ -84,3 +79,4 @@ namespace Dbms
 
     }
 }
+ 

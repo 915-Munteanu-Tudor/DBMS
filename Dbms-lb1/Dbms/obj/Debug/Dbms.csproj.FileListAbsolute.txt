@@ -20,3 +20,14 @@ I:\materiale\an2\sem2\dbms\Dbms-lb1\Dbms\obj\Debug\Dbms.csproj.GenerateResource.
 I:\materiale\an2\sem2\dbms\Dbms-lb1\Dbms\obj\Debug\Dbms.csproj.CoreCompileInputs.cache
 I:\materiale\an2\sem2\dbms\Dbms-lb1\Dbms\obj\Debug\Dbms.exe
 I:\materiale\an2\sem2\dbms\Dbms-lb1\Dbms\obj\Debug\Dbms.pdb
+I:\materiale\an2\sem2\dbms\DBMS\Dbms-lb1\Dbms\bin\Debug\Dbms.exe.config
+I:\materiale\an2\sem2\dbms\DBMS\Dbms-lb1\Dbms\bin\Debug\Dbms.exe
+I:\materiale\an2\sem2\dbms\DBMS\Dbms-lb1\Dbms\bin\Debug\Dbms.pdb
+I:\materiale\an2\sem2\dbms\DBMS\Dbms-lb1\Dbms\obj\Debug\Dbms.csproj.AssemblyReference.cache
+I:\materiale\an2\sem2\dbms\DBMS\Dbms-lb1\Dbms\obj\Debug\Dbms.csproj.SuggestedBindingRedirects.cache
+I:\materiale\an2\sem2\dbms\DBMS\Dbms-lb1\Dbms\obj\Debug\Dbms.Form1.resources
+I:\materiale\an2\sem2\dbms\DBMS\Dbms-lb1\Dbms\obj\Debug\Dbms.Properties.Resources.resources
+I:\materiale\an2\sem2\dbms\DBMS\Dbms-lb1\Dbms\obj\Debug\Dbms.csproj.GenerateResource.cache
+I:\materiale\an2\sem2\dbms\DBMS\Dbms-lb1\Dbms\obj\Debug\Dbms.csproj.CoreCompileInputs.cache
+I:\materiale\an2\sem2\dbms\DBMS\Dbms-lb1\Dbms\obj\Debug\Dbms.exe
+I:\materiale\an2\sem2\dbms\DBMS\Dbms-lb1\Dbms\obj\Debug\Dbms.pdb

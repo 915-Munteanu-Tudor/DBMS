@@ -105,7 +105,6 @@
             this.Controls.Add(this.ConnectDb);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.mechanicsGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.managersGridView)).EndInit();
             this.ResumeLayout(false);
